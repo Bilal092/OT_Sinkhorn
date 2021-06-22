@@ -12,6 +12,8 @@ def sinkhornTransport(a, b, K, U, lamb, stoppingCriterion='marginalDifference', 
 
     Original Paper discussing the Algorithm can be found at:
     
+    https://papers.nips.cc/paper/2013/file/af21d0c97db2e27e13572cbf59eb343d-Paper.pdf
+    
 
     This Code is Translated by Hau Phan.
 
